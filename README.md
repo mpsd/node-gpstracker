@@ -1,4 +1,7 @@
 # node-gpstracker
+
+Under development - not for use at this stage!!!!
+
 Protocol implementation / portal server for GPS trackers TK104 (incutex) and Konga KT90
 
 I use this for my own iojs portal server. Inspired by different related projects
@@ -8,10 +11,10 @@ I use this for my own iojs portal server. Inspired by different related projects
 
 Filestruture lib
 - Position.js (required)
-- Messagequeue.js (required)
+- MessageQueue.js (required)
 - Tracker.js (required)
-- TK104.js (protocol handler for TK104)
-- KT90.js (basic protocol handler for KT90, limited SET commands, focused on parsing incoming positions)
+- Protocol_TK104.js (protocol handler for TK104)
+- Protocol_KT90.js (basic protocol handler for KT90, limited SET commands, focused on parsing incoming positions)
 - Server.js (required)
 
 Created this for private use on my own server. Feel free to use. Please let me know if you find bugs.
