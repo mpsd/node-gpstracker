@@ -11,7 +11,6 @@ I use this for my own iojs portal server. Inspired by different related projects
 
 Filestruture lib
 - Position.js (required)
-- MessageQueue.js (required)
 - Tracker.js (required)
 - Protocol_TK104.js (protocol handler for TK104)
 - Protocol_KT90.js (basic protocol handler for KT90, limited SET commands, focused on parsing incoming positions)
