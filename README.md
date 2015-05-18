@@ -6,7 +6,7 @@ Protocol implementation / portal server for GPS trackers TK104 (incutex) and Kon
 
 I use this for my own iojs portal server. Inspired by different related projects
 - https://github.com/fvdm/nodejs-tk102 (for TK10x / general Xexun message parsing)
-- https://github.com/jfromaniello/node-gpstracker (for TK104 message parsing)
+- https://github.com/jfromaniello/node-gpstracker (for TK104 message parsing, see also my fork node-tk104)
 - https://github.com/alvassin/nodejs-meiligao (for KT90 / Meitrack message parsing)
 
 Filestruture lib
