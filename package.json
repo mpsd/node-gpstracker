@@ -5,7 +5,8 @@
   "name": "gpstracker",
   "description": "A server for the GPS/GPRS Tracker Incutex tk104 (Xexun) and Konga KT90 (Meitrack)",
   "version": "0.0.1",
-  "keywords": ["gps","tracker","tk104","kt90"],
+  "license": "MIT",
+  "keywords": ["gps","tracker","incutex","tk104","meitrack","konga","kt90"],
   "repository": {
     "type": "git",
     "url": "git://github.com/mpsd/node-gpstracker.git"
