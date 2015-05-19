@@ -9,7 +9,7 @@ I use this for my own iojs portal server. Inspired by different related projects
 - https://github.com/jfromaniello/node-gpstracker (for TK104 message parsing, see also my fork node-tk104)
 - https://github.com/alvassin/nodejs-meiligao (for KT90 / Meitrack message parsing)
 
-Filestruture lib
+Filestructure in directory 'lib'
 - Message.js (required, defines Message and Position)
 - Tracker.js (required)
 - Protocol_TK104.js (protocol handler for TK104, focused on parsing incoming positions)
