@@ -15,5 +15,5 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "scripts": {},
-  "main": "./lib/server"
+  "main": "./lib/Server"
 }
